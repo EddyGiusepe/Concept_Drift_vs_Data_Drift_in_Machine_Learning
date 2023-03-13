@@ -15,9 +15,17 @@
 
 Links de estudo:
 
-* [asdasda](https://www.datacamp.com/tutorial/understanding-data-drift-model-drift)
+* [Concept drift vs data drift in machine learning](https://analyticsindiamag.com/concept-drift-vs-data-drift-in-machine-learning/)
 
+* [Understanding Data Drift and Model Drift: Drift Detection in Python](https://www.datacamp.com/tutorial/understanding-data-drift-model-drift)
 
+* [Machine Learning Monitoring, Part 5: Why You Should Care About Data and Concept Drift](https://www.evidentlyai.com/blog/machine-learning-monitoring-data-and-concept-drift)
+
+* [Data Drift Vs Concept Drift](https://divedeep.ai/data-drift-vs-concept-drift/)
+
+* [Concept drift in machine learning 101](https://www.aporia.com/blog/concept-drift-in-machine-learning-101/)
+
+* [8 Concept Drift Detection Methods](https://www.aporia.com/learn/data-drift/concept-drift-detection-methods/)
 
 
 
