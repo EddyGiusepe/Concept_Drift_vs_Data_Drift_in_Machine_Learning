@@ -13,5 +13,13 @@
 
 
 
+Links de estudo:
+
+* [https://analyticsindiamag.com/concept-drift-vs-data-drift-in-machine-learning/](afaaf)
+
+
+
+
+
 
 Thanks God! 
