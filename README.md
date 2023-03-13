@@ -7,7 +7,7 @@
 
 # Concept Drift detection methods
 
-https://www.aporia.com/wp-content/webp-express/webp-images/uploads/2021/08/8-concept-drift-detection-methods.png.webp
+![](https://www.aporia.com/wp-content/webp-express/webp-images/uploads/2021/08/8-concept-drift-detection-methods.png.webp)
 
 
 
