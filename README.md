@@ -15,7 +15,7 @@
 
 Links de estudo:
 
-* [asdasda](https://analyticsindiamag.com/concept-drift-vs-data-drift-in-machine-learning/)
+* [asdasda](https://www.datacamp.com/tutorial/understanding-data-drift-model-drift)
 
 
 
