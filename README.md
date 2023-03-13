@@ -15,7 +15,7 @@
 
 Links de estudo:
 
-* [https://analyticsindiamag.com/concept-drift-vs-data-drift-in-machine-learning/](afaaf)
+* [Concept drift vs data drift in machine learning](https://analyticsindiamag.com/concept-drift-vs-data-drift-in-machine-learning/)
 
 
 
